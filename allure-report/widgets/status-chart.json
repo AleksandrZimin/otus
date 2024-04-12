@@ -1,1 +1,86 @@
-[{"uid":"e573187054f1bfe1","name":"Повторное создание пользователя","time":{"start":1712769220444,"stop":1712769221296,"duration":852},"status":"passed","severity":"normal"},{"uid":"3da80297f32dd283","name":"Удаление книги","time":{"start":1712769220445,"stop":1712769223111,"duration":2666},"status":"passed","severity":"normal"},{"uid":"3bb84d481c823d9","name":"Обновление книги","time":{"start":1712769220445,"stop":1712769222612,"duration":2167},"status":"passed","severity":"normal"},{"uid":"fba87d592c86bfb0","name":"Повтрорная авторизация пользолвателя после удаления","time":{"start":1712769220446,"stop":1712769223845,"duration":3399},"status":"passed","severity":"normal"},{"uid":"c91d831f480bc22e","name":"Авторизация пользователя","time":{"start":1712769220444,"stop":1712769221899,"duration":1455},"status":"passed","severity":"normal"},{"uid":"ad10c91f17760f45","name":"Получение информации о пользователе","time":{"start":1712769220444,"stop":1712769222012,"duration":1568},"status":"passed","severity":"normal"},{"uid":"e3ce641bd2ca514e","name":"Генерация токена","time":{"start":1712769220444,"stop":1712769221687,"duration":1243},"status":"passed","severity":"normal"},{"uid":"389f69b61f714dae","name":"Получении информации о книге","time":{"start":1712769220445,"stop":1712769222667,"duration":2222},"status":"passed","severity":"normal"},{"uid":"998f1f96d32bb20a","name":"Удаление пользователя","time":{"start":1712769220446,"stop":1712769223478,"duration":3032},"status":"passed","severity":"normal"},{"uid":"e238be6c7cbda67a","name":"Создание пользователя","time":{"start":1712769220444,"stop":1712769221085,"duration":641},"status":"passed","severity":"normal"},{"uid":"bef6d162ccad1074","name":"Добавление книги в список пользователя","time":{"start":1712769220445,"stop":1712769222173,"duration":1728},"status":"passed","severity":"normal"},{"uid":"994a089f5908c6f0","name":"Создание пользователя с ошибкой, пароль не подходит","time":{"start":1712769220443,"stop":1712769220688,"duration":245},"status":"passed","severity":"normal"}]
+[
+  {
+    "uid": "510f228958b05621",
+    "name": "Получении информации о книге",
+    "time": { "start": 1712772431753, "stop": 1712772433755, "duration": 2002 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "41d9d848e8fb7fc9",
+    "name": "Повторное создание пользователя",
+    "time": { "start": 1712772431752, "stop": 1712772432563, "duration": 811 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1eac7af704eafd20",
+    "name": "Генерация токена",
+    "time": { "start": 1712772431752, "stop": 1712772433002, "duration": 1250 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "32c4b8ce59902c61",
+    "name": "Обновление книги",
+    "time": { "start": 1712772431753, "stop": 1712772433698, "duration": 1945 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c1350cc53a9a997e",
+    "name": "Повтрорная авторизация пользолвателя после удаления",
+    "time": { "start": 1712772431754, "stop": 1712772434559, "duration": 2805 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dd5751dcd1d75f07",
+    "name": "Создание пользователя с ошибкой, пароль не подходит",
+    "time": { "start": 1712772431751, "stop": 1712772432009, "duration": 258 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a5e5fb951f74f351",
+    "name": "Добавление книги в список пользователя",
+    "time": { "start": 1712772431753, "stop": 1712772433422, "duration": 1669 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f6c4a07ef7a43306",
+    "name": "Получение информации о пользователе",
+    "time": { "start": 1712772431753, "stop": 1712772433312, "duration": 1559 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cccf94aaa93c8f32",
+    "name": "Удаление пользователя",
+    "time": { "start": 1712772431754, "stop": 1712772434247, "duration": 2493 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3b286aca33e87f6d",
+    "name": "Авторизация пользователя",
+    "time": { "start": 1712772431753, "stop": 1712772433205, "duration": 1452 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2c3b579beff528df",
+    "name": "Удаление книги",
+    "time": { "start": 1712772431754, "stop": 1712772434010, "duration": 2256 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8dfba72e6cee40e8",
+    "name": "Создание пользователя",
+    "time": { "start": 1712772431752, "stop": 1712772432362, "duration": 610 },
+    "status": "passed",
+    "severity": "normal"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "uid": "ff63b09ecd5ea0e0",
+  "name": "Повторное создание пользователя",
+  "fullName": "Авторизация Повторное создание пользователя",
+  "historyId": "842d88cda64342f64b9c99ab10864b67:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772332449, "stop": 1712772333145, "duration": 696 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": { "categories": [], "tags": [] },
+  "source": "ff63b09ecd5ea0e0.json",
+  "parameterValues": []
+}

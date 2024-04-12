@@ -1,0 +1,32 @@
+{
+  "uid": "3001b5089dfb5fd3",
+  "name": "Создание пользователя с ошибкой, пароль не подходит",
+  "fullName": "Авторизация Создание пользователя с ошибкой, пароль не подходит",
+  "historyId": "307bdf51cde84d3a05c7b88a9c6dc509:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772332447, "stop": 1712772332691, "duration": 244 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": { "categories": [], "tags": [] },
+  "source": "3001b5089dfb5fd3.json",
+  "parameterValues": []
+}

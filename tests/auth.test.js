@@ -122,8 +122,6 @@ describe('Авторизация', () => {
     expect(response.status).toBe(404)
     expect(data.code).toBe('1207')
     expect(data.message).toBe('User not found!')
-    TelegramService.sendMessage("Автотест успешно пройден")
+    TelegramService.sendMessage('Автотест успешно пройден')
   })
-
-  
 })

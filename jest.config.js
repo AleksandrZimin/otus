@@ -10,7 +10,9 @@ const config = {
   transform: {
     '^.+\\.(js|jsx|node)$': 'babel-jest',
   },
-  transformIgnorePatterns: ['<rootDir>/node_modules/(?!(node-fetch|data-uri-to-buffer))'], // Exclude all except these two
+  transformIgnorePatterns: [
+    '<rootDir>/node_modules/(?!(node-fetch|data-uri-to-buffer))',
+  ], // Exclude all except these two
   // All imported modules in your tests should be mocked automatically
   // automock: false,
 

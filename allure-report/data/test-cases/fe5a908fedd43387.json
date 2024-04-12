@@ -1,0 +1,32 @@
+{
+  "uid": "fe5a908fedd43387",
+  "name": "Получении информации о книге",
+  "fullName": "Авторизация Получении информации о книге",
+  "historyId": "724c338544419203061020756bc29bde:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772394083, "stop": 1712772396217, "duration": 2134 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": { "categories": [], "tags": [] },
+  "source": "fe5a908fedd43387.json",
+  "parameterValues": []
+}

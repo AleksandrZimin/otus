@@ -1,0 +1,83 @@
+{
+  "uid": "a5e5fb951f74f351",
+  "name": "Добавление книги в список пользователя",
+  "fullName": "Авторизация Добавление книги в список пользователя",
+  "historyId": "a165d6e8b2cb7cbe5826f8a5329ee26a:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772431753, "stop": 1712772433422, "duration": 1669 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 5,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "8179b7ebeaf07680",
+        "status": "passed",
+        "time": {
+          "start": 1712772394083,
+          "stop": 1712772395866,
+          "duration": 1783
+        }
+      },
+      {
+        "uid": "33676c0d67515ad",
+        "status": "passed",
+        "time": {
+          "start": 1712772332451,
+          "stop": 1712772333890,
+          "duration": 1439
+        }
+      },
+      {
+        "uid": "89457cfeb70f4a1c",
+        "status": "passed",
+        "time": {
+          "start": 1712772209069,
+          "stop": 1712772210426,
+          "duration": 1357
+        }
+      },
+      {
+        "uid": "72488dea8c45a5b4",
+        "status": "passed",
+        "time": {
+          "start": 1712770595373,
+          "stop": 1712770597020,
+          "duration": 1647
+        }
+      },
+      {
+        "uid": "1cb251caac3ac2dd",
+        "status": "passed",
+        "time": {
+          "start": 1712769220445,
+          "stop": 1712769222173,
+          "duration": 1728
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "a5e5fb951f74f351.json",
+  "parameterValues": []
+}

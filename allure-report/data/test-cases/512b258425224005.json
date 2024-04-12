@@ -1,0 +1,32 @@
+{
+  "uid": "512b258425224005",
+  "name": "Авторизация пользователя",
+  "fullName": "Авторизация Авторизация пользователя",
+  "historyId": "762e43b1d165ad9452e3c506f367b7f1:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772394083, "stop": 1712772395616, "duration": 1533 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": { "categories": [], "tags": [] },
+  "source": "512b258425224005.json",
+  "parameterValues": []
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "41d9d848e8fb7fc9",
+  "name": "Повторное создание пользователя",
+  "fullName": "Авторизация Повторное создание пользователя",
+  "historyId": "842d88cda64342f64b9c99ab10864b67:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772431752, "stop": 1712772432563, "duration": 811 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 5,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "ed3998ad91fc33d1",
+        "status": "passed",
+        "time": {
+          "start": 1712772394082,
+          "stop": 1712772394929,
+          "duration": 847
+        }
+      },
+      {
+        "uid": "ff63b09ecd5ea0e0",
+        "status": "passed",
+        "time": {
+          "start": 1712772332449,
+          "stop": 1712772333145,
+          "duration": 696
+        }
+      },
+      {
+        "uid": "a0bc38b4b0169ec3",
+        "status": "passed",
+        "time": {
+          "start": 1712772209067,
+          "stop": 1712772209707,
+          "duration": 640
+        }
+      },
+      {
+        "uid": "a5d78d104c7a91e4",
+        "status": "passed",
+        "time": {
+          "start": 1712770595372,
+          "stop": 1712770596161,
+          "duration": 789
+        }
+      },
+      {
+        "uid": "f1e42d76e94f68b0",
+        "status": "passed",
+        "time": {
+          "start": 1712769220444,
+          "stop": 1712769221296,
+          "duration": 852
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "41d9d848e8fb7fc9.json",
+  "parameterValues": []
+}

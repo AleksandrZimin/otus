@@ -1,0 +1,32 @@
+{
+  "uid": "f227e596f84940a7",
+  "name": "Повтрорная авторизация пользолвателя после удаления",
+  "fullName": "Авторизация Повтрорная авторизация пользолвателя после удаления",
+  "historyId": "abaedaccfdb9e5c07540d42f3b23947e:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772332453, "stop": 1712772335091, "duration": 2638 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": { "categories": [], "tags": [] },
+  "source": "f227e596f84940a7.json",
+  "parameterValues": []
+}

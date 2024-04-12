@@ -1,0 +1,83 @@
+{
+  "uid": "1eac7af704eafd20",
+  "name": "Генерация токена",
+  "fullName": "Авторизация Генерация токена",
+  "historyId": "385ffbfc8a127436dbe5988be243f9db:d41d8cd98f00b204e9800998ecf8427e",
+  "time": { "start": 1712772431752, "stop": 1712772433002, "duration": 1250 },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 5,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "language", "value": "javascript" },
+    { "name": "framework", "value": "jest" },
+    { "name": "package", "value": "tests" },
+    { "name": "thread", "value": "1" },
+    { "name": "host", "value": "DESKTOP-M3ML2IM" },
+    { "name": "parentSuite", "value": "Авторизация" },
+    { "name": "resultFormat", "value": "allure2" }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "9c16ed63044da686",
+        "status": "passed",
+        "time": {
+          "start": 1712772394082,
+          "stop": 1712772395375,
+          "duration": 1293
+        }
+      },
+      {
+        "uid": "33a2cb0245edfc2d",
+        "status": "passed",
+        "time": {
+          "start": 1712772332450,
+          "stop": 1712772333573,
+          "duration": 1123
+        }
+      },
+      {
+        "uid": "88c48f7156565ce0",
+        "status": "passed",
+        "time": {
+          "start": 1712772209068,
+          "stop": 1712772210120,
+          "duration": 1052
+        }
+      },
+      {
+        "uid": "74a27bd22a2989cd",
+        "status": "passed",
+        "time": {
+          "start": 1712770595372,
+          "stop": 1712770596577,
+          "duration": 1205
+        }
+      },
+      {
+        "uid": "59e27cde0edc746b",
+        "status": "passed",
+        "time": {
+          "start": 1712769220444,
+          "stop": 1712769221687,
+          "duration": 1243
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "1eac7af704eafd20.json",
+  "parameterValues": []
+}

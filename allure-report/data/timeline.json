@@ -1,1 +1,1386 @@
-{"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","name":"timeline","children":[{"name":"DESKTOP-M3ML2IM","children":[{"name":"1","children":[{"name":"Повторное создание пользователя","uid":"e573187054f1bfe1","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220444,"stop":1712769221296,"duration":852},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Удаление книги","uid":"3da80297f32dd283","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220445,"stop":1712769223111,"duration":2666},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Создание пользователя","uid":"e238be6c7cbda67a","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220444,"stop":1712769221085,"duration":641},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Генерация токена","uid":"e3ce641bd2ca514e","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220444,"stop":1712769221687,"duration":1243},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Повтрорная авторизация пользолвателя после удаления","uid":"fba87d592c86bfb0","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220446,"stop":1712769223845,"duration":3399},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Получение информации о пользователе","uid":"ad10c91f17760f45","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220444,"stop":1712769222012,"duration":1568},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Авторизация пользователя","uid":"c91d831f480bc22e","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220444,"stop":1712769221899,"duration":1455},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Добавление книги в список пользователя","uid":"bef6d162ccad1074","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220445,"stop":1712769222173,"duration":1728},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Получении информации о книге","uid":"389f69b61f714dae","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220445,"stop":1712769222667,"duration":2222},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Создание пользователя с ошибкой, пароль не подходит","uid":"994a089f5908c6f0","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220443,"stop":1712769220688,"duration":245},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Обновление книги","uid":"3bb84d481c823d9","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220445,"stop":1712769222612,"duration":2167},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Удаление пользователя","uid":"998f1f96d32bb20a","parentUid":"838f3ecc4bb3c728b754f91deb2a3731","status":"passed","time":{"start":1712769220446,"stop":1712769223478,"duration":3032},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"838f3ecc4bb3c728b754f91deb2a3731"}],"uid":"ea13518a1068a476918cf4be1a41166e"}]}
+{
+  "uid": "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name": "timeline",
+  "children": [
+    {
+      "name": "DESKTOP-M3ML2IM",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "7059780f77691ee",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595372,
+                "stop": 1712770596889,
+                "duration": 1517
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "1eac7af704eafd20",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431752,
+                "stop": 1712772433002,
+                "duration": 1250
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "68e9f71a70b0d071",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332452,
+                "stop": 1712772334472,
+                "duration": 2020
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "d332c9b2e5d38319",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220445,
+                "stop": 1712769222667,
+                "duration": 2222
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "b672d8fe8fb952c8",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220443,
+                "stop": 1712769220688,
+                "duration": 245
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "dd5751dcd1d75f07",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431751,
+                "stop": 1712772432009,
+                "duration": 258
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "495f0170205e9cd1",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220446,
+                "stop": 1712769223845,
+                "duration": 3399
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "ff63b09ecd5ea0e0",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332449,
+                "stop": 1712772333145,
+                "duration": 696
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "8a3f7c71dd607a75",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394084,
+                "stop": 1712772396725,
+                "duration": 2641
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "bd94d67dbd51060e",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209066,
+                "stop": 1712772209299,
+                "duration": 233
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "542f7ce6997dbc5a",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394084,
+                "stop": 1712772397048,
+                "duration": 2964
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "59e27cde0edc746b",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220444,
+                "stop": 1712769221687,
+                "duration": 1243
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "f6c4a07ef7a43306",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431753,
+                "stop": 1712772433312,
+                "duration": 1559
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "ed3998ad91fc33d1",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394082,
+                "stop": 1712772394929,
+                "duration": 847
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "3b286aca33e87f6d",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431753,
+                "stop": 1712772433205,
+                "duration": 1452
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "a0bc38b4b0169ec3",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209067,
+                "stop": 1712772209707,
+                "duration": 640
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "74a27bd22a2989cd",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595372,
+                "stop": 1712770596577,
+                "duration": 1205
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "6e2cb87a1a5a8f35",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209067,
+                "stop": 1712772209644,
+                "duration": 577
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "72488dea8c45a5b4",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595373,
+                "stop": 1712770597020,
+                "duration": 1647
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "6aec4a19e7a429a",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394082,
+                "stop": 1712772394687,
+                "duration": 605
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "2c3b579beff528df",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431754,
+                "stop": 1712772434010,
+                "duration": 2256
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "a5d78d104c7a91e4",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595372,
+                "stop": 1712770596161,
+                "duration": 789
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "fe5a908fedd43387",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394083,
+                "stop": 1712772396217,
+                "duration": 2134
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "6236760d8ea34d21",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209068,
+                "stop": 1712772210294,
+                "duration": 1226
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "aaa61159175e9c1d",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209070,
+                "stop": 1712772211044,
+                "duration": 1974
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "7670f88b39deae33",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332451,
+                "stop": 1712772334209,
+                "duration": 1758
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "d3393b66db70f014",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209069,
+                "stop": 1712772210714,
+                "duration": 1645
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "c04c130e823c6f86",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595373,
+                "stop": 1712770597653,
+                "duration": 2280
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "1f473798f6a8e747",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394083,
+                "stop": 1712772396159,
+                "duration": 2076
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "9c16ed63044da686",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394082,
+                "stop": 1712772395375,
+                "duration": 1293
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "59a6ebe3a61e23cd",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332451,
+                "stop": 1712772333775,
+                "duration": 1324
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "b825914200c8c2c",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332450,
+                "stop": 1712772333670,
+                "duration": 1220
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "c1350cc53a9a997e",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431754,
+                "stop": 1712772434559,
+                "duration": 2805
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "b6624b5c5324e5f",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394081,
+                "stop": 1712772394318,
+                "duration": 237
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "ca77e5b4523b8e6f",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220444,
+                "stop": 1712769221085,
+                "duration": 641
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "33676c0d67515ad",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332451,
+                "stop": 1712772333890,
+                "duration": 1439
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "7166de2c6e8cb6a7",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220446,
+                "stop": 1712769223478,
+                "duration": 3032
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "8a861e2877cee23b",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595371,
+                "stop": 1712770595608,
+                "duration": 237
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "33a2cb0245edfc2d",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332450,
+                "stop": 1712772333573,
+                "duration": 1123
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "736187d915cb8b9c",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332449,
+                "stop": 1712772333056,
+                "duration": 607
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "a5e5fb951f74f351",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431753,
+                "stop": 1712772433422,
+                "duration": 1669
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "8dfba72e6cee40e8",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431752,
+                "stop": 1712772432362,
+                "duration": 610
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя с ошибкой, пароль не подходит",
+              "uid": "3001b5089dfb5fd3",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332447,
+                "stop": 1712772332691,
+                "duration": 244
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "e2b3615be7653e3a",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220444,
+                "stop": 1712769221899,
+                "duration": 1455
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "f227e596f84940a7",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332453,
+                "stop": 1712772335091,
+                "duration": 2638
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Генерация токена",
+              "uid": "88c48f7156565ce0",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209068,
+                "stop": 1712772210120,
+                "duration": 1052
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "2b29864da605e888",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595374,
+                "stop": 1712770598267,
+                "duration": 2893
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "424fb2573a359197",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220444,
+                "stop": 1712769222012,
+                "duration": 1568
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "510f228958b05621",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431753,
+                "stop": 1712772433755,
+                "duration": 2002
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "512b258425224005",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394083,
+                "stop": 1712772395616,
+                "duration": 1533
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "6303ca17bab30024",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595374,
+                "stop": 1712770597913,
+                "duration": 2539
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повтрорная авторизация пользолвателя после удаления",
+              "uid": "c7c02ffebb5b35cf",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209070,
+                "stop": 1712772211613,
+                "duration": 2543
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "cccf94aaa93c8f32",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431754,
+                "stop": 1712772434247,
+                "duration": 2493
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "89457cfeb70f4a1c",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209069,
+                "stop": 1712772210426,
+                "duration": 1357
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "8179b7ebeaf07680",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394083,
+                "stop": 1712772395866,
+                "duration": 1783
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "bee76f9ca27e683c",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595373,
+                "stop": 1712770597385,
+                "duration": 2012
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "48ae6d7cc791609f",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209070,
+                "stop": 1712772211274,
+                "duration": 2204
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Добавление книги в список пользователя",
+              "uid": "1cb251caac3ac2dd",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220445,
+                "stop": 1712769222173,
+                "duration": 1728
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление пользователя",
+              "uid": "67098af903fd13e4",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332452,
+                "stop": 1712772334699,
+                "duration": 2247
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "f1e42d76e94f68b0",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220444,
+                "stop": 1712769221296,
+                "duration": 852
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получении информации о книге",
+              "uid": "baf88d86f9c6c37d",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209069,
+                "stop": 1712772210784,
+                "duration": 1715
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "32c4b8ce59902c61",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431753,
+                "stop": 1712772433698,
+                "duration": 1945
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Повторное создание пользователя",
+              "uid": "41d9d848e8fb7fc9",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772431752,
+                "stop": 1712772432563,
+                "duration": 811
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 5,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "521cc6ca06bd64da",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220445,
+                "stop": 1712769222612,
+                "duration": 2167
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Создание пользователя",
+              "uid": "3171413957eb36fb",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595371,
+                "stop": 1712770595978,
+                "duration": 607
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "3c140161c7bad2ee",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772209068,
+                "stop": 1712772210184,
+                "duration": 1116
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Авторизация пользователя",
+              "uid": "5cae25dd12d711b8",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595372,
+                "stop": 1712770596781,
+                "duration": 1409
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Получение информации о пользователе",
+              "uid": "4dcfa134b8db92a2",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394083,
+                "stop": 1712772395738,
+                "duration": 1655
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "3bc7b4af71780153",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712770595373,
+                "stop": 1712770597330,
+                "duration": 1957
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "36780edc7f47600f",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712769220445,
+                "stop": 1712769223111,
+                "duration": 2666
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Обновление книги",
+              "uid": "246db803ddbb1a82",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772332451,
+                "stop": 1712772334153,
+                "duration": 1702
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "Удаление книги",
+              "uid": "d9230a3579595e41",
+              "parentUid": "838f3ecc4bb3c728b754f91deb2a3731",
+              "status": "passed",
+              "time": {
+                "start": 1712772394084,
+                "stop": 1712772396482,
+                "duration": 2398
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "838f3ecc4bb3c728b754f91deb2a3731"
+        }
+      ],
+      "uid": "ea13518a1068a476918cf4be1a41166e"
+    }
+  ]
+}
