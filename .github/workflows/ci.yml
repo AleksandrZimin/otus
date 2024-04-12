@@ -69,7 +69,7 @@ jobs:
 
       - run: npm ci
       - run: cp .env.example .env
-      - run: npm test:ci
+      - run: npm test
       - run: npm allure:ci
 
       - name: Setup Pages
