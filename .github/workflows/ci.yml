@@ -47,7 +47,7 @@ jobs:
           cache: 'npm'
 
       - run: npm ci
-      - run: npm run format:fix
+      - run: npm run format
 
 
   test:
@@ -82,6 +82,17 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  notify:
+    if: always()
+    needs: [prettier, test]
+    runs-on: ubuntu-latest 
+
+    steps: 
+      - run: |
+          curl --location 'https://api.telegram.org/bot${{secrets.TELEGRAM_TOKEN}}/sendMessage' \
+               --header 'Content-Type: application/json' \
+               --data '{ "chat_id" : "${{secrets.TELEGRAM_CHAT_ID}}", "text" : "Report link: https://github.com/${{ github.repository}}/actions/runs/${{ github.run_id}}" }'
 
 
 
